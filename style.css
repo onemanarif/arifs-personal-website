@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+}
+h1{ 
+    font-size: 50px;
+    font-family: 'Piedra', cursive;
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+}
+section{
+    height: 450px;
+    padding-bottom: 100px;
+}
+#link-btn1{
+    text-decoration: none;
+    background-color: rgb(226, 55, 149);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+}
+#link-btn2{
+    text-decoration: none;
+    background-color: rgba(16, 214, 240, 0.774);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
+}
+#link-btn3{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red, orange);
+    padding: 40px 20px;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+}
+#link-btn4{
+    
+    background-color: rgb(31, 161, 236);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 700;
+}
+.no-style{
+    text-decoration: none;
+}
+
+.blod{
+    font-weight: 700;
+
+}
+.top-margin{
+    margin: auto;
+    width: 25%;
+}
+
+
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left:2%;
+}
+.img-width{
+    width: 28%;
+    float: left; 
+    margin-left: 3%;
+    padding-left:2%;
+
+}
+.img-width img{
+    width: 100%;
+}
+.half-width img{
+    margin-top:-120px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+   
+}
+.name-highlight{
+    color: red;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.latestwork{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.clientsay{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.word-aling{
+    text-align: center;
+}
+.radio-text{
+    font-size: 18px;
+    font-family: cursive;
+}
+.text-field{
+    height: 50px;
+    width: 450px;
+    margin-top: 10px;
+}
+.end-sec{
+    margin-top: 100px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
